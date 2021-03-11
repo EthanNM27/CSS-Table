@@ -1,0 +1,28 @@
+th {
+     font-weight: 700;
+     font-family : Helvetica, sans-serif;
+     background-color: #ff5c33;
+     color: #ffffff;
+     padding: 5px;
+}
+
+table{
+      font-family    : Helvetica, sans-sarif;
+      border-collapse: collapse;
+      border-width   : 1px;
+      border-style   : solid;
+      border-color   : #000000;
+  }
+
+tr {
+	 text-align: center;
+}
+
+td {
+	padding: 3px;
+}
+
+.rank {
+	background-color: black;
+	color: #ff5c33;
+}
